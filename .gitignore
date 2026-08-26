@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# IDE
+.vscode/
+.idea/
+
+# Logs & tensorboard
+*.log
+logs*/
+logsc*/
+logscr*/
+logsq*/
+logscq*/
+logscqr*/
+logscqrc*/
+logscrk*/
+logscrr*/
+logsr*/
+runs/
+events.out.*
+
+# Checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Data
+datasets/
+data/
+
+# OS
+.DS_Store
+Thumbs.db
