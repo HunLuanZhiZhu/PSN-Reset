@@ -1,7 +1,7 @@
 # PSN-Reset
 
-> Code release for the **parallel-reset component of a submitted research manuscript**.  
-> This repository contains the implementation and experiment scripts for restoring historical-output feedback in parallel spiking neurons while preserving parallel computation across the temporal dimension.
+> Research code associated with a **submitted manuscript** on parallel reset mechanisms for spiking neural networks.  
+> This repository contains implementations and experiment scripts for restoring historical-output feedback in parallel spiking neurons while preserving parallel computation across the temporal dimension.
 
 ## Overview
 
@@ -308,7 +308,7 @@ For reset-enabled and representation-specific configurations, use the correspond
 
 ## Reproducibility notes
 
-This repository is a **partial code release associated with a submitted manuscript**.
+This repository contains the research code associated with a **submitted manuscript**.
 
 A few details are worth noting when reproducing experiments:
 
